@@ -50,28 +50,14 @@ istediğiniz kadar görev ekleyip silebilirsiniz arkadaşlar, absürt kayıt olm
 Kullanıcı adı : **admin**
 Şifre : **123**
 
-<a href="http://example.com/" target="_blank">DEMO GİRİŞ</a>
+<a href="http://webkartali.com/task/index.php" target="_blank">DEMO GİRİŞ</a>
 
 
 
-![alt text]()
-
-
-
-
-
+**İNDİR ve Detaylar**
+<a href="http://webkartali.com/task/cw_task.rar" target="_blank">İNDİR</a>
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
+**Webkartali.Com  Yazılım Tgeknolojileri**
