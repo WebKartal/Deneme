@@ -60,4 +60,4 @@ Kullanıcı adı : **admin**
 
 
 
-**Webkartali.Com  Yazılım Tgeknolojileri**
+**Webkartali.Com  Yazılım Teknolojileri**
