@@ -16,7 +16,7 @@ echo $KayitTarihi."<br>";
 $geleni_sil = mysqli_query($connn, "DELETE FROM tum_gorevler WHERE grv_id =$silinecek ");
 
 
-if ($gorevi_kaydet) {
+if ($geleni_sil) {
 	header('Location: gorevler.php ');
 } else {
 	header('Location: gorevler.php ');
