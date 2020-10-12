@@ -13,12 +13,12 @@ echo $GorevDurum."<br>";
 echo $KayitTarihi."<br>";
 */
 
-$geleni_sil = mysqli_query($connn, "DELETE FROM tum_gorevler WHERE grv_id =$silinecek ");
+$geleni_sil = mysqli_query($connn, "DELETE FROM tum_gorevler WHERE grv_id =$silinecek");
 
 
 if ($geleni_sil) {
-	header('Location: gorevler.php ');
+	header('Location: gorevler.php?xid=2');
 } else {
-	header('Location: gorevler.php ');
+	header('Location: gorevler.php?xid=1');
 }
  ?>
